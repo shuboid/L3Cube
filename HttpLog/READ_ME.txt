@@ -2,6 +2,10 @@ Instructions for Windows:
 1)Run exe
 2)Select 1366*768 resolution (UI is not made responsive)
 
+
+
+Extract linux.zip and follow steps for linux
+
 Instructions for Linux:
 1)Right click on exe
 2)check "allow executable"
@@ -9,4 +13,6 @@ Instructions for Linux:
 4)Select windowed mode and scale the window(UI is not made responsive)
 
 
+
 Build in Unity3D platform .
+
